@@ -22,6 +22,7 @@ public class PruebaContornos {
         System.out.println(total);
         
         Change by MarcosCL21
+        Change by Ricky..
     }
     
 }
