@@ -18,11 +18,9 @@ public class PruebaContornos {
         int var1=4;
         int var2=4;
         int total;
+        int algo = 3;
         total = var1 + var2;
         System.out.println(total);
-        
-        Change by MarcosCL21
-        Change by Ricky..
     }
     
 }
